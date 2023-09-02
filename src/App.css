@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.ColorBox {
+  width: 20%;
+  height: 20%;
+}
+
+.ColorBoxGrid {
+ border: 1px solid black;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+}
